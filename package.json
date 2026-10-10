@@ -1,0 +1,10 @@
+{
+  "name": "test-manager-library-3413974-tool",
+  "version": "1.0.0",
+  "description": "Sembrador de datos de demostración vía API para Manager Library",
+  "main": "seed.js",
+  "type": "module",
+  "scripts": {
+    "seed": "node seed.js"
+  }
+}
